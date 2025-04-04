@@ -9,6 +9,7 @@ function Footer() {
       <div>thuộc nhánh cuong</div>
       <div>thuộc nhánh cuong_1</div>
       <div>thuộc nhánh cuong lần 2</div>
+      <div>thuộc nhánh cuong_1 lần 2</div>
     </>
   );
 }
